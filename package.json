@@ -1,0 +1,8 @@
+{
+  "name": "pdfGen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ukaric/pdfGen.git",
+  "author": "ukaric <dot.kadza@gmail.com>",
+  "license": "MIT"
+}
